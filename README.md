@@ -1,6 +1,7 @@
 # Basic Git and Node setup task
 
-* Open your terminal and type `git config`
+* Open your terminal and type `git config --global user.name "<write your github username>"`
+* Also write `git config --global user.email "<write your github email>"`
 * On your desktop create a folder named Task_1
 * Navigate through your terminal or git bash to the newly created folder 
 * Clone this repo by typing `git clone 'this repo's url`
