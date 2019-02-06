@@ -7,7 +7,7 @@
 * You should now have a folder containing the example code
 * Go to server --> index.js
 * Add your name and id (as a string) to the students array
-* Type the following in your terminal `node index.js` 
+* Type the following in your terminal `npm i` then write `node index.js` 
 * You should see the following output in the terminal
 * Go to your browser and type the url 
 >localhost:3000/api/students
