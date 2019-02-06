@@ -11,6 +11,7 @@
 * Type the following in your terminal `npm i` then write `node index.js` 
 * You should see the following output in the terminal
 * Go to your browser and type the url 
->localhost:3000/api/students
+>localhost:3000
+* Press on students
 * You should see your name in the list of students
 * Finally come back to this repo and open a pull request with the master having the message ID_NAME (ex. 40-00001_Mohamed)
