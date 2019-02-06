@@ -3,7 +3,7 @@
 * Open your terminal and type `git config`
 * On your desktop create a folder named Task_1
 * Navigate through your terminal or git bash to the newly created folder 
-* Clone this repo by typing `git clone repo's url`
+* Clone this repo by typing `git clone 'this repo's url`
 * You should now have a folder containing the example code
 * Go to server --> index.js
 * Add your name and id (as a string) to the students array
