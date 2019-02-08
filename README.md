@@ -33,4 +33,4 @@
 5. At this point, you should see your name in the list of students
 6. Now, come back on this github page and create a pull request adding your name and id to this repo's index.js file
 7. To make sure everything is correct, you should see that your pull request is changing 1 file (index.js) and you add 1 line which is simply your name and id in the array
-8. Your pull request and its changes are the proof that you have successfully learned how things work so far ! 
+8. Your pull request and its changes are the proof that you have successfully learned how things work so far! 
