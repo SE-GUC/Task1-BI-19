@@ -1,5 +1,7 @@
 # Basic Git and Node setup task
 
+> :warning: Before using this repo, make sure this is indeed the repo corresponding to your tutorial group
+
 ### Config your git username and email in terminal (only for first time use)
   1. Open your terminal and type the following 
   2. `git config --global user.name "<write your github username>"`
